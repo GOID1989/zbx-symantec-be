@@ -7,3 +7,6 @@ and forums (sorry cant find url) for cyrillic symbols (in jobs name) compatibili
 
 # Notice
 In script line (kind of fasthack) for timezone correction change for yours if needed: $job_Result1 = (New-TimeSpan -Start $date -end $job_Result).TotalSeconds - 10800
+
+Tested on Symantec Backup Exec 2012 and Windows Server 2008R2
+
