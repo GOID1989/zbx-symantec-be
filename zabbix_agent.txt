@@ -1,0 +1,1 @@
+UserParameter=sbe.run[*],powershell -NoProfile -ExecutionPolicy Bypass -File "C:\Program Files (x86)\Zabbix Agent\Scripts\zbx-symantec-be.ps1" "$1" "$2"
